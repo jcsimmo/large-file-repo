@@ -1,1 +1,2 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+llama3_70b_split_* filter=lfs diff=lfs merge=lfs -text
